@@ -10,7 +10,7 @@ Open pictures and videos in tabs and download them all at once.
   * Temporarily load the add-on ([how?](https://developer.chrome.com/extensions/getstarted#unpacked))
 
 * Firefox
-  * Install from Firefox Add-ons (no link yet)
+  * Install from Firefox Add-ons [website](https://addons.mozilla.org/fr/firefox/addon/downallpics-vids/)
   * Temporarily load the add-on ([how?](https://developer.mozilla.org/en/Add-ons/WebExtensions/Temporary_Installation_in_Firefox))
 
 ### Icon
